@@ -1,16 +1,68 @@
-## Hi there 👋
+## Hi 👋 I'm Vaibhav Upadhyay
 
-<!--
-**vaibhavupadhyaycs25-ctrl/vaibhavupadhyaycs25-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Developer | 🎓 CSE Student @ GLA University | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🎓 B.Tech Computer Science & Engineering @ GLA University
+* 📚 Currently in 1st / 2nd Year
+* 💻 Passionate about Programming and Problem Solving
+* 🌱 Currently learning **Java and Data Structures**
+* 🎯 Goal: Become a **Software Developer**
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+* ☕ Java
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript (Learning)
+
+### ⚙ Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📚 CS Fundamentals
+
+* Data Structures
+* Operating Systems
+* DBMS
+* Computer Networks
+
+---
+
+## 🚀 Featured Project
+
+### 🧮 Calculator using Java
+
+* Simple calculator built using **Java**
+* Performs basic operations like **Addition, Subtraction, Multiplication, Division**
+* Created for practicing **Java logic and programming concepts**
+
+---
+
+## 🎯 Learning Goals
+
+* Improve **DSA problem solving skills**
+* Build more **Java Projects**
+* Prepare for **Software Developer placements**
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [vaibhav.upadhyay_cs25@gla.ac.in](mailto:vaibhav.upadhyay_cs25@gla.ac.in)
+* 💻 GitHub: https://github.com/vaibhavupadhyaycs25-ctrl
+
+---
+
+⭐ From **Vaibhav Upadhyay**
