@@ -19,15 +19,14 @@
 ### 💻 Languages
 
 * ☕ Java
-* 🌐 HTML
-* 🎨 CSS
-* ⚡ JavaScript (Learning)
-
+* 💻 C Programming
 ### ⚙ Tools
 
 * Git
 * GitHub
 * VS Code
+* Intellij Idea
+* Eclips
 
 ---
 
@@ -60,8 +59,27 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: [vaibhav.upadhyay_cs25@gla.ac.in](mailto:vaibhav.upadhyay_cs25@gla.ac.in)
-* 💻 GitHub: https://github.com/vaibhavupadhyaycs25-ctrl
+<h2>📫 Connect With Me</h2>
+
+<p>
+
+<a href="mailto:vaibhav.upadhyay_cs25@gla.ac.in">
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vaibhav-upadhyay-a93b48367">
+<img src="https://img.icons8.com/color/48/linkedin.png"/>
+</a>
+
+<a href="https://github.com/vaibhavupadhyaycs25-ctrl">
+<img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
+</a>
+
+<a href="https://leetcode.com/Vaibhav1034">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
+</a>
+
+</p>
 
 ---
 
