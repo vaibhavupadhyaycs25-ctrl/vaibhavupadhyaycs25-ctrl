@@ -66,3 +66,37 @@
 ---
 
 ⭐ From **Vaibhav Upadhyay**
+---
+
+## 🧠 Tech Stack Icons
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavupadhyaycs25-ctrl\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavupadhyaycs25-ctrl\&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavupadhyaycs25-ctrl\&theme=tokyo-night)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
