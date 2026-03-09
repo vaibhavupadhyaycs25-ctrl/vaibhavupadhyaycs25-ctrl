@@ -46,7 +46,7 @@
 * Simple calculator built using **Java**
 * Performs basic operations like **Addition, Subtraction, Multiplication, Division**
 * Created for practicing **Java logic and programming concepts**
-* Project link:
+🔗 Project Link: 
 https://github.com/vaibhavupadhyaycs25-ctrl/Calculator-Project
 ---
 
