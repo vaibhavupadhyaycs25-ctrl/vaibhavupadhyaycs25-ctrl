@@ -58,7 +58,6 @@ https://github.com/vaibhavupadhyaycs25-ctrl/Calculator-Project
 
 ---
 
-## 📫 Connect With Me
 
 <h2>📫 Connect With Me</h2>
 
