@@ -20,7 +20,7 @@
 
 * ☕ Java
 * 💻 C Programming
-### ⚙ Tools
+## ⚙ Tools
 
 * Git
 * GitHub
