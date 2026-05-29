@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 * 🎓 B.Tech Computer Science & Engineering @ GLA University
-* 📚 Currently in 1st Year
+* 📚 Currently in 2nd Year
 * 💻 Passionate about Programming and Problem Solving
 * 🌱 Currently learning **Java and Data Structures**
 * 🎯 Goal: Become a **Software Developer**
@@ -20,6 +20,7 @@
 
 * ☕ Java
 * 💻 C Programming
+* Object Oreinted Programming System
 ## ⚙ Tools
 
 * Git
