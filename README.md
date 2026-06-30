@@ -100,10 +100,6 @@ https://github.com/vaibhavupadhyaycs25-ctrl/Calculator-Project
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=vaibhavupadhyaycs25-ctrl\&theme=tokyonight)
-
 ---
 
 ## 📈 Contribution Graph
