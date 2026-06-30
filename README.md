@@ -65,8 +65,7 @@ https://github.com/vaibhavupadhyaycs25-ctrl/Calculator-Project
 <p>
 
 <a href="mailto:vaibhav.upadhyay_cs25@gla.ac.in">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
-</a>
+
 
 <a href="https://www.linkedin.com/in/vaibhav-upadhyay-a93b48367">
 <img src="https://img.icons8.com/color/48/linkedin.png"/>
